@@ -13,8 +13,10 @@ Kotlin learning project were i created a Kotlin android app that allows the user
 
 <!-- ScreenShots -->
 ## Screenshots
-    <img src="images/homePage.jpg" alt="Logo" width="720" height="1080">
-    <img src="images/searchResultsPage.jpg" alt="Logo" width="720" height="1080">
-    <img src="images/menu.jpg" alt="Logo" width="720" height="1080">
-    <img src="images/bookmarkPage.jpg" alt="Logo" width="720" height="1080">
+</br>
+    <img src="images/homePage.jpg" alt="Logo" width="1080" height="2340">
+    <img src="images/searchResultsPage.jpg" alt="Logo" width="1080" height="2340">
+    <img src="images/menu.jpg" alt="Logo" width="1080" height="2340">
+    <img src="images/bookmarkPage.jpg" alt="Logo" width="1080" height="2340">
+
 
